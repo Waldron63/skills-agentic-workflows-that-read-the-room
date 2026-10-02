@@ -6,8 +6,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
-engine: 
-    id: copilot
+engine: copilot
 tools:
   github:
     toolsets: [repos]
