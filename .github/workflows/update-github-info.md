@@ -8,7 +8,7 @@ permissions:
   contents: read
 engine: 
     id: copilot
-    model: gpt-5.4
+    model: gpt-5.6-luna
 tools:
   github:
     toolsets: [repos]
